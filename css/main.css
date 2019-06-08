@@ -35,8 +35,9 @@ header, footer, footer a {
 }
 
 header img {
-    width: 180px;
+    width: 250px;
     height: auto;
+    transform: rotate(90deg);
     float: right;
 }
 
